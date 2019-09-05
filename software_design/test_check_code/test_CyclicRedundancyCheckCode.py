@@ -1,5 +1,5 @@
 import unittest
-from software_design.spiders import CyclicRedundancyCheckCode
+from software_design.spiders.check_code import CyclicRedundancyCheckCode
 
 
 class CyclicRedundancyCheckCodeTestCase(unittest.TestCase):

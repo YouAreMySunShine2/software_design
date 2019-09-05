@@ -1,5 +1,5 @@
 import unittest
-from software_design.spiders import ParityCode
+from software_design.spiders.check_code import ParityCode
 
 
 class ParityCodeTestCase(unittest.TestCase):
